@@ -1,4 +1,4 @@
-package com.clinicapergamino.OSAM;
+package com.clinicapergamino.osam;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
